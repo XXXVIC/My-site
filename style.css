@@ -1,6 +1,6 @@
 body {
     font-family: sans-serif;
-    background-color: white;
+    background-color: black;
 }
 
 header {
@@ -27,13 +27,13 @@ nav {
 
 .nav-link {
     font-size: 24px;
-    color: black;
+    color: white;
     text-decoration: none;
 }
 
 h1 {
     text-align: center;
-    color: black;
+    color: white;
     font-size: 36px;
     margin-top: ;
     margin-bottom: ;
@@ -57,15 +57,6 @@ article {
     margin: 30px;
 }
 
-.article-but {
-    text-decoration: none;
-    background-color: grey;
-    color: black;
-    font-size: 24px;
-    text-align: center;
-    padding: 10px 75px 10px 75px;
-}
-
 footer {
     background-color: white;
     padding: ;
@@ -77,4 +68,40 @@ footer a {
 
 footer p {
     font-size: 24px;
+}
+
+.article-but1 {
+    text-decoration: none;
+    background-color: #A1652D;
+    color: black;
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 75px 10px 75px;
+}
+
+.article-but2 {
+    text-decoration: none;
+    background-color: #33AA00;
+    color: black;
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 75px 10px 75px;
+}
+
+.article-but3 {
+    text-decoration: none;
+    background-color: #AC1313;
+    color: black;
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 75px 10px 75px;
+}
+
+.article-but4 {
+    text-decoration: none;
+    background-color: #AC13A6;
+    color: black;
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 75px 10px 75px;
 }
